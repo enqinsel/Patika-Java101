@@ -1,2 +1,2 @@
-# Patika---Java101
+# Patika-Java101
 Basic projects for my course
